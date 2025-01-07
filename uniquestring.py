@@ -1,5 +1,5 @@
 # Unique String: Implement an algorithm to determine if a string has all unique characters. 
-# What if you cannot use additional data structures?
+# What if you cannot use additional data structures? check if a string has all unique characters
 
 str = input("Enter a string: ")
 print("The string is: ", str)
